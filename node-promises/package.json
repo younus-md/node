@@ -1,0 +1,14 @@
+{
+  "name": "node-promises",
+  "version": "1.0.0",
+  "description": "Using promises and promise chains with request npm",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
